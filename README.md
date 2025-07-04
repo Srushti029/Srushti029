@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there, I'm Srushti!
 
-<!--
-**Srushti029/Srushti029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Mission: Become a recognized name in tech by December 2025*  
+🔐 Exploring the powerful world of *Cybersecurity & Cloud Computing*  
+🌱 Currently learning: AWS, Linux, TryHackMe, Ethical Hacking  
+📌 Based in Pune, India  
+✍ I love writing blogs, sharing what I learn, and helping others grow
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- AWS Cloud Practitioner Certification
+- Hacking labs on TryHackMe & OverTheWire
+- Posting weekly progress on LinkedIn
+- Building a cybersecurity learning repo
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](www.linkedin.com/in/srushti-kadam-032924325)  
+- 📘 [Grow with Srushti Blog](https://growwithsrushti.blogspot.com/)  
+- 📌 #MissionRecognized
+
+---
+
+This is just the beginning — follow along as I document my journey into the tech world! 💜
