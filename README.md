@@ -17,7 +17,7 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/srushti-kadam-032924325)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/srushti-kadam-032924325/)  
 - 📘 [Grow with Srushti Blog](https://growwithsrushti.blogspot.com/)  
 - 📌 #MissionRecognized
 
