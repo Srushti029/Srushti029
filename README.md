@@ -1,108 +1,76 @@
-# Hey, I'm Srushti Kadam 👋
+# Srushti Kadam
 
-> *"Most people wait to be ready. I decided to start before I was."*
+### Cybersecurity | SOC & Blue Team | Security Analysis
 
----
+I’m focused on understanding how security incidents unfold — from the first suspicious indicator to the evidence, investigation, and response.
 
-## Who I Am
+My current work spans **SOC operations, network security, web application security, vulnerability assessment, and security analysis**, with a strong emphasis on hands-on labs and investigation.
 
-Computer Engineering undergrad at **Bharati Vidyapeeth College of Engineering for Women, Pune**.
+## Security Focus
 
-Not just studying tech — **building inside it**.
+**SOC & Blue Team**
+- Security alert triage
+- Authentication log analysis
+- Incident investigation
+- Timeline reconstruction
+- Threat detection
+- Incident response
 
-Katalyst India Scholar. 500+ LinkedIn connections. And someone who believes that consistency compounds faster than talent ever will.
+**Security Testing**
+- Vulnerability assessment
+- Web application security
+- Reconnaissance
+- SQL Injection
+- XSS / client-side security
+- OWASP-based testing
 
-My focus is simple: **Cybersecurity + Cloud Computing** — because the future of every system depends on how secure and scalable it is. I want to be the person who builds and defends that future.
+**Technical**
+- Linux
+- Networking
+- Wireshark
+- Nmap
+- Burp Suite
+- Nikto
+- Python
+- C++
+- Git / GitHub
 
----
+## Security Work
 
-## What I'm Building Toward
+### SOC Alert Triage & Authentication Investigation
+Investigated suspicious Windows authentication activity using a synthetic security-log dataset. The investigation covered failed authentication analysis, source-IP correlation, account targeting, timeline reconstruction, alert classification, severity assessment, and response recommendations.
 
-The gap between "learning tech" and "doing tech" is where most people get stuck.
+### Network Traffic Analysis
+Analyzed network traffic using Wireshark to understand communication patterns, protocols, and suspicious network behaviour.
 
-I chose to close that gap early.
+### Web Application Security Assessment
+Performed controlled web application security testing using security tools and vulnerability-assessment techniques.
 
-Every project here is proof of that decision — not a tutorial follow-along, not a certificate screenshot, but **real work that solves real problems**.
+### DVWA Security Testing
+Performed controlled testing of web application vulnerabilities in a local lab environment, including SQL Injection and client-side security testing.
 
-**Current focus areas:**
-- 🔐 Cybersecurity — packet analysis, ethical hacking, secure systems
-- ☁️ Cloud — AWS infrastructure, deployment, cloud security
-- 🐧 Linux & Networking — because fundamentals never go out of style
-- 🐍 Python & C++ — the tools I use to build and automate
-- 🌐 Web Development — Flask, backend, full deployment workflows
+### Password Security Assessment
+Performed a controlled password-security assessment covering password strength, authentication security, and password-cracking concepts.
 
----
+### PhishGuard
+Worked on a phishing-detection project focused on identifying suspicious indicators and improving phishing detection and awareness.
 
-## Projects
+## Other Technical Work
 
-### 🗒️ Flask Notes Manager — [Live App](https://flask-notes-app-2huu.onrender.com/)
-A full-stack notes web app built with Python and Flask. CRUD operations, database integration, deployed on Render.
-> This wasn't just about building an app. It was about understanding how data moves — from form to database to user.
+My broader technical work includes Python/Flask, AWS, C++, networking, and web development. These projects support my understanding of systems, applications, and infrastructure.
 
-### ☁️ AWS EC2 Hands-On Lab
-Launched an EC2 instance, configured security groups, connected via SSH, and managed the full lifecycle.
-> Cloud stopped feeling abstract the moment I got a timeout error at midnight and had to fix it myself.
+## Current Direction
 
-### 📡 Wireshark Packet Analysis *(in progress)*
-Capturing and analyzing real network traffic to understand protocols, identify anomalies, and think like an attacker.
+I’m building deeper capability in **SOC operations, threat detection, incident investigation, and defensive security**, with the goal of becoming strong at turning raw security evidence into clear, actionable decisions.
 
----
+**Understand what happened. Prove it with evidence. Respond effectively.**
+ 
 
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| Introduction to Cybersecurity | Cisco Networking Academy |
-| AWS Cloud Essentials | Amazon Web Services |
-| Python Bootcamp: Zero to Hero | Udemy (Jose Portilla) |
-| Java Basic Certification | HackerRank |
-
----
-
-## Tech Stack
-
-```
-Languages     →  Python · C · C++ · Java · Bash
-Security      →  Wireshark · Kali Linux · Network Analysis
-Cloud         →  AWS EC2 · Cloud Architecture · IAM basics
-Dev Tools     →  Flask · Git · GitHub · Linux · VS Code
-```
-
----
-
-## Beyond the Code
-
-- 🏛️ **Technical Team, E-Cell BVCOEW** — building at the intersection of tech and entrepreneurship
-- 🔬 **CyberGen 2025, BVDUCOEP** — got hands-on with real-world cybersecurity scenarios
-- 🖥️ **Industrial Visit, CDAC Pune** — explored PARAM supercomputing, AI, HPC, and national-scale tech infrastructure
-
----
-
-## The Philosophy
-
-Most people collect certificates. I collect **understanding**.
-
-There's a difference between knowing what Wireshark is and actually sitting with packet captures at 11pm trying to figure out why a handshake failed. I choose the second path, every time.
-
-This GitHub is a living document of that choice.
-
-**I'm not the finished product. I'm the work in progress — and I'm building in public.**
-
----
-
-## Currently Open To
-
-✅ Cybersecurity internships (blue team, SOC, network security)
-✅ Cloud / DevOps internships
-✅ Research or project collaborations in security or cloud
-✅ Mentorship from people already in the field
-
----
-
-## Let's Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srushti%20Kadam-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/srushti-kadam29/)
 [![GitHub](https://img.shields.io/badge/GitHub-srushti--kadam-181717?style=flat&logo=github)](https://github.com/)
+**Email:** srushtikadam029@gmail.com
 
 > *"Work hard in silence. Let the commits speak."*
 
